@@ -1,0 +1,12 @@
+{
+    "name": "Nova Credit Rails sample app",
+    "description": "Sample app that demonstrates integration with Nova Credit",
+    "keywords": ["fintech", "Nova", "Credit"],
+    "success_url": "/",
+    "template": "https://github.com/tyre/rails-quickstart",
+    "buildpacks": [
+        {
+            "url": "heroku/ruby"
+        }
+    ]
+}
